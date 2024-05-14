@@ -54,4 +54,4 @@ jobs:
           app-name: 'Khaled-Alsayad'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_05CC53C42CC14BFD90B7949D1197FD6B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B4E751705FC343D88C1BDAD6E5F9C5C2 }}
